@@ -59,3 +59,19 @@ typings/
 
 # next.js build output
 .next
+
+# Claude Code local config
+.credentials.json
+settings.json
+history.jsonl
+mcp-needs-auth-cache.json
+cache/
+sessions/
+shell-snapshots/
+downloads/
+backups/
+projects/
+.claude/
+plugins/
+Claude Cowork/
+*.webp
